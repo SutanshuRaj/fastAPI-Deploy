@@ -1,0 +1,5 @@
+__pycache__
+.git
+.gitignore
+.DS_Store
+.venv
